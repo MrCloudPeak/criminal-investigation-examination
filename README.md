@@ -1,2 +1,2 @@
 # criminal-investigation-examination
-某网红刑侦推理题
+暴力美学破解2018网红刑侦推理题
